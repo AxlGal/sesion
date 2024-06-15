@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #2700a9;
+    background-color: #19d6eb;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
 }
 
 h2 {
-    color: #e26736;
+    color: #000000;
     text-align: center;
 }
 
