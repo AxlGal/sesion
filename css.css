@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #0d61df;
+    background-color: #40d583;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-    background-color: #113f1b;
+    background-color: #280bb5;
 }
 
 #registerList, #loginList {
